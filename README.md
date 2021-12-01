@@ -1,4 +1,6 @@
-# The Open Alliance Guidelines
+# The Open Alliance
+
+## Guidelines
 1) regular, current, updates 1 or more times per week. Include analysis and notes or thoughts on what went well and what did not.
 2) use a format that is conducive to asking and answering questions
 3) complete pics and vids in context.
