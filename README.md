@@ -2,6 +2,8 @@
 ## What is The Open Alliance?
 The #openalliance members all believe that FRC can have a greater impact on all teams if our ideas are shared throughout the season. With the end of The Bag, there’s a chance that FRC teams may become more secretive than they are now, and we’re hoping to stop that trend before it has a chance to start. We think that teams can share information and still be competitive, and that a rising tide lifts all boats.
 
+Any team is welcome to join The Open Alliance at any time. We simply ask that you follow these guidelines.
+
 ## Guidelines for participation
 1) **Don't keep secrets**
    * Sharing and learning is our competitive advantage, not secrets.
@@ -18,6 +20,8 @@ The #openalliance members all believe that FRC can have a greater impact on all 
 7) **Include the bad with the good.**
    * We want a complete picture, not a highlight reel.
    * Posting the bad helps everyone learn.
+
+------------------------------
 
 ## Discord
 Join our discord to discuss ideas with other #openalliance teams!
