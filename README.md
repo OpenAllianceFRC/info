@@ -28,7 +28,7 @@ Any team is welcome to join The Open Alliance at any time. We simply ask that yo
 
 ------------------------------
 ## Chief Delphi
-* Please tag posts with #openalliance and #frc[teamNumber] to make them easier to find
+* Please tag posts with `#openalliance` and `#frc[teamNumber]` to make them easier to find
 
 ## Discord
 Join our discord to discuss ideas with other #openalliance teams!
