@@ -13,7 +13,8 @@ Any team is welcome to join The Open Alliance at any time. We simply ask that yo
    * Sharing and learning is our competitive advantage, not secrets.
    * Don't withold "that one detail" that makes an idea or mechanism work.  If you share it, share it all.
 3) **Try to update 1 or more times per week.**
-   * Include analysis and notes or thoughts on what went well and what did not.
+   * Include analysis and notes
+   * Include thoughts on what went well and what did not.
 4) **Use a platform that is conducive to asking and answering questions.**
    * We recommend making official update posts in your build thread on (ChiefDelphi)[chiefdelphi.com] and cross-posting to (Discord)[https://discord.gg/pMxQD8SgJh] for further discussion.
    * Try to share important information, or the results of important discussions, on both platforms.
@@ -26,6 +27,8 @@ Any team is welcome to join The Open Alliance at any time. We simply ask that yo
    * Posting the bad helps everyone learn.
 
 ------------------------------
+## Chief Delphi
+* Please tag posts with #openalliance and #frc[teamNumber] to make them easier to find
 
 ## Discord
 Join our discord to discuss ideas with other #openalliance teams!
