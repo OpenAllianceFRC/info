@@ -16,7 +16,7 @@ Any team is welcome to join The Open Alliance at any time. We simply ask that yo
    * Include analysis and notes
    * Include thoughts on what went well and what did not.
 4) **Use a platform that is conducive to asking and answering questions.**
-   * We recommend making official update posts in your build thread on [ChiefDelphi](https://chiefdelphi.com) and cross-posting to [Discord](https://discord.gg/pMxQD8SgJh) for further discussion.
+   * We recommend making official update posts in your build thread on [ChiefDelphi](https://www.chiefdelphi.com/tag/openalliance) and cross-posting to [Discord](https://discord.gg/pMxQD8SgJh) for further discussion.
    * Try to share important information, or the results of important discussions, on both platforms.
 5) **Post lots of pictures and videos.**
    * People love to look at pictures and videos
